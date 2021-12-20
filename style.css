@@ -1,0 +1,59 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgba(255, 255, 255, 0);
+    color: whitesmoke;
+}
+
+.note {
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+body {
+    background-size: cover;
+}
+
+.divSpeed {
+    float: left;
+}
+
+.divSpeedImg {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.divVolume {
+    float: right;
+}
+
+.divVolumeImg {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speedValue {
+    font-size: 20px;
+    margin: 15px;
+    color: whitesmoke;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#volumeValue {
+    font-size: 20px;
+    margin: 15px;
+    color: whitesmoke;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.ppn {
+    width: 130px;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
